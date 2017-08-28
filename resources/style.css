@@ -39,3 +39,30 @@ a {
 .logo p {
     color: mediumaquamarine;
 }
+section {
+    display: block;
+}
+.content {
+    display: flex;
+    width: 1232px;
+    margin: 0 auto 78px auto;
+    padding-top: 116px;
+}
+.main {
+    width: 630px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 32px;
+}
+.right {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 32px;
+}
+.widget {
+    width: 240px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 32px;
+}
